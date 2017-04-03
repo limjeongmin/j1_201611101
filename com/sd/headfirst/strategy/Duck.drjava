@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="QuackBehavior.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:32:44">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="FlyWithWings.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:22:41">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="FlyBehavior.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:21:38">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Quack.java" package="headfirst.strategy" timestamp="26-Mar-2017 15:12:12">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MiniDuckSimulator1.java" package="headfirst.strategy" timestamp="26-Mar-2017 15:13:10">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MallardDuck.java" package="headfirst.strategy" timestamp="26-Mar-2017 15:13:55">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="FlyRocketpowered.java" package="headfirst.strategy" timestamp="26-Mar-2017 15:15:24">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Duck.java" package="headfirst.strategy" timestamp="26-Mar-2017 15:17:58">
+        <select from="85" to="85"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
